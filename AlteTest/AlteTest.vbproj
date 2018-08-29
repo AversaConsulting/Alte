@@ -120,9 +120,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="License.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\Alte\Alte\Alte.vbproj">
       <Project>{61573D76-8358-4C41-BF35-DAF9D9469FE2}</Project>
       <Name>Alte</Name>
