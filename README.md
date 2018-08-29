@@ -3,6 +3,8 @@ Tiny Embedded .NET NoSQL Database with cloud storage in Azure Table Storage with
 
 - .NET Objects are stored in Azure Table Storage
 - Stores one property in one column on Azure for full compatibility and simplicity
+- Can store Decimal/Currency type fields not normally supported in Table Storage
+- Can store larger byte arrays over multiple columns automatically
 - Properties can be indexed for lightning quick retreival
 - Pass in an example object with an index property set to lookup objects via index
 - Properties can be full text indexed
@@ -11,6 +13,7 @@ Tiny Embedded .NET NoSQL Database with cloud storage in Azure Table Storage with
 - Easy to read automatic time sequential IDs - similar to GUIDs but more user friendly and shorter - or use several other ID types or roll your own
 - Optimistic concurrency built in
 - Simple blob storage utilities built in
+- Other utilites included - Randomise lists, Re-indexing, Backup of Table and Blobs
 
 - USES:
 -- Small local apps
