@@ -14,6 +14,7 @@ Tiny Embedded .NET NoSQL Database with cloud storage in Azure Table Storage with
 - Optimistic concurrency built in
 - Simple blob storage utilities built in
 - Other utilites included - Randomise lists, Re-indexing, Backup of Table and Blobs
+- Includes an ASP.NET session provider - although work is still needed on this to clear old session data, it is fully working
 
 - USES:
 -- Multi-tenant apps
