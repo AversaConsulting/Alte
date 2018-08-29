@@ -16,7 +16,6 @@ Tiny Embedded .NET NoSQL Database with cloud storage in Azure Table Storage with
 - Other utilites included - Randomise lists, Re-indexing, Backup of Table and Blobs
 
 - USES:
--- Small local apps
 -- Multi-tenant apps
 -- Large scale apps
 
