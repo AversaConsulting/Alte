@@ -4,6 +4,8 @@ Tiny Embedded .NET NoSQL Database with cloud storage in Azure Table Storage with
 Download from NuGet - search for ALTE
 Download this project for demo in C#
 
+View web site at www.alte.co.uk - or visit developer at www.aversa.co.uk
+
 - .NET Objects are stored in Azure Table Storage
 - Stores one property in one column on Azure for full compatibility and simplicity
 - Can store Decimal/Currency type fields not normally supported in Table Storage
