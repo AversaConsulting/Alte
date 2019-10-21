@@ -29,7 +29,7 @@ View web site at www.alte.co.uk - or visit developer at www.aversa.co.uk
 
 - In use on our multi tennant e-commerce platform - e.g. www.woodstyle.co.uk
 - In use currently on large scale classified selling platform - e.g. www.advertisedelsewhere.co.uk
-- In use on hotel booking systems - e.g. www.hengar.co.uk
+- In use on hotel booking systems - e.g. www.hengardirect.co.uk
 
 See how easy it is to get going!
 
