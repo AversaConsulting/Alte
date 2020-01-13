@@ -1,4 +1,4 @@
-# alte
+# alte indexed poco azure tables
 Tiny Embedded .NET NoSQL Style Database with cloud storage in Azure Table Storage with massive scaleability
 
 Download from NuGet - search for ALTE
